@@ -1,0 +1,8 @@
+repository/account/AccountRepositoryMySQLTest.java
+ repository.account.AccountRepositoryMySQLTest
+repository/client/ClientRepositoryMySQLTest.java
+ repository.client.ClientRepositoryMySQLTest
+service/client/ClientServiceImplTest.java
+ service.client.ClientServiceImplTest
+service/account/AccountServiceImplTest.java
+ service.account.AccountServiceImplTest
